@@ -3,11 +3,11 @@
  * Plugin Name:			Where Did You Hear About Us Checkout Field for WooCommerce
  * Plugin URI:			http://wooassist.com/
  * Description:			Adds a custom field in the checkout page to ask the custom where they've heard about your store.
- * Version:				1.3.2
+ * Version:				1.3.3
  * Author:				Wooassist
  * Author URI:			http://wooassist.com/
  * Requires at least:	4.0.0
- * Tested up to:		6.4.3
+ * Tested up to:		6.6.2
  *
  * Text Domain: wc-customer-source
  * Domain Path: /languages/

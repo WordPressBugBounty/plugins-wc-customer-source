@@ -2,8 +2,8 @@
 Contributors: wooassist
 Tags: logo, custom, customizer, branding, storefront
 Requires at least: 3.0.1
-Tested up to: 6.4.3
-Stable tag: 6.4.3
+Tested up to: 6.6.2
+Stable tag: 6.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -84,15 +84,15 @@ You can find the settings page by navigating to WooCommerce > Reports and click 
 * moved menu location due to deprecation of Reports section
 * updated codes for php8 compatibility
 
-1.3.0
+= 1.3.0 =
 * fixed php 8 compatibility
 * fixed export php notice
 
-1.3.1
+= 1.3.1 =
 * patched XSS Vulnerability
 
-1.3.2
+= 1.3.2 =
 * patched XSS Vulnerability (updated escaping code)
 
-1.3.3
+= 1.3.3 =
 * fixed translation issue of 'Other' field
